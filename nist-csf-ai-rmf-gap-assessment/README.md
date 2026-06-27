@@ -39,7 +39,7 @@ Each assessment includes:
 - Recommended Remediation
 - Priority Level
 
-- ## Key Outcomes
+  ## Key Outcomes
 
 - Identified cybersecurity and AI governance control gaps
 - Prioritized remediation activities based on organizational risk
