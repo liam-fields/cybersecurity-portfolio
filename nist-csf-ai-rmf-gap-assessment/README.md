@@ -7,12 +7,12 @@ Assess FinSecure Corp.'s cybersecurity governance, operational security practice
 FinSecure Corp. is a regional financial services organization managing customer financial transactions, employee records, and compliance documentation across on-premises and remote environments.
 
 ## Methodology
-- Reviewed access control policies
-- Evaluated operational security procedures
-- Analyzed user access matrix
-- Examined system log activity
-- Assessed governance and asset management practices
-- Identified gaps and remediation opportunities
+Assessment findings were developed through analysis of:
+- Access control documentation
+- Security procedures
+- Simulated system logs
+- User access matrices
+- Organizational security requirements
 
 ## Frameworks
 - NIST Cybersecurity Framework 2.0
