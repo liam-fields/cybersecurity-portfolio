@@ -1,10 +1,10 @@
 # NIST CSF 2.0 & AI RMF Gap Assessment – FinSecure Corp.
 
 ## Overview
-This project presents two gap assessments for FinSecure Corp., a regional financial services organization operating across on-premises and remote environments. The assessments evaluate cybersecurity governance, operational security practices, and readiness for responsible AI adoption using NIST Cybersecurity Framework (CSF) 2.0 and NIST AI Risk Management Framework (AI RMF) 1.0 [web:8][web:7].
+This project presents two gap assessments for FinSecure Corp., a regional financial services organization operating across on-premises and remote environments. The assessments evaluate cybersecurity governance, operational security practices, and readiness for responsible AI adoption using NIST Cybersecurity Framework (CSF) 2.0 and NIST AI Risk Management Framework (AI RMF) 1.0.
 
 ## Objective
-Assess FinSecure Corp.’s current-state security posture, identify control gaps, and recommend prioritized remediation actions aligned to NIST guidance
+Assess FinSecure Corp.’s current-state security posture, identify control gaps, and recommend prioritized remediation actions aligned to NIST guidance.
 
 ## Organization Profile
 FinSecure Corp. manages customer financial transactions, employee records, and compliance documentation. The organization’s environment includes both on-premises systems and remote access workflows.
