@@ -7,14 +7,14 @@
 
 ---
 
-## 📋 Document Control & Version History
+##  Document Control & Version History
 | Version | Date | Author | Description | Reviewer / Approver |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | June 28, 2026 | Liam-Bennet Fields | Initial ISO/IEC 27001:2022 Risk Assessment & Gap Analysis | Security Department / CIO |
 
 ---
 
-## 🏛️ Executive Summary
+##  Executive Summary
 FinSecure Corp. is a regional financial services provider executing a planned strategic market expansion. This growth initiative necessitates transitioning legacy workflows into compliance with international governance frameworks, specifically **ISO/IEC 27001:2022** and **NIST CSF 2.0**. 
 
 A recent critical security incident—where an HR employee opened a malicious email attachment that silently installed a GhostX Remote Access Trojan (RAT)—exposed severe, systemic architectural gaps. The baseline assessment revealed vulnerabilities across identity lifecycle management (unterminated accounts retaining active status), weak boundary defense (overly permissive outbound firewall rules), and critical cryptographic flaws (unencrypted data storage and plaintext transit protocols). 
@@ -23,7 +23,7 @@ By implementing an automated, framework-driven security posture, FinSecure will 
 
 ---
 
-## 🎯 Scope & Introduction
+##  Scope & Introduction
 This risk assessment targets all core infrastructure segments, data repositories, and operational practices defined within FinSecure's distributed corporate environment:
 *   **Corporate Network Infrastructure:** The Human Resources Subnet (`10.1.1.x`) and the Finance Subnet (`10.1.2.x`).
 *   **Central Data Center:** Public-facing web interfaces, multi-departmental file servers, internal application servers, and core relational databases.
@@ -31,7 +31,7 @@ This risk assessment targets all core infrastructure segments, data repositories
 
 ---
 
-## 🧮 1. Risk Assessment Methodology
+##  1. Risk Assessment Methodology
 This project simulates an external GRC audit and risk assessment. Risks are evaluated using a standard $3 \times 3$ Risk Matrix measuring **Likelihood** (probability of exploitation) and **Impact** (severity of damage to Confidentiality, Integrity, and Availability).
 
 ### Scoring Criteria
@@ -49,7 +49,7 @@ $$\text{Risk Score} = \text{Likelihood} \times \text{Impact}$$
 
 ---
 
-## 📊 2. Statement of Applicability & Risk Register
+##  2. Statement of Applicability & Risk Register
 *The full quantitative data engine, change logs, and risk calculations are maintained in the corporate workbook:* [ISO 27001 Risk Assessment](FinSecure_ISO27001_Risk_Assessment.xlsx)
 
 ### RSK-01: Stale & Unterminated Identity Accounts
@@ -108,7 +108,7 @@ $$\text{Risk Score} = \text{Likelihood} \times \text{Impact}$$
 
 ---
 
-## 🚀 3. Executive Mitigation Roadmap
+##  3. Executive Mitigation Roadmap
 
 To systematically execute these remediations and safely support the business expansion, FinSecure Corp. will structure capital and engineering efforts across three distinct operational phases:
 
@@ -126,6 +126,6 @@ To systematically execute these remediations and safely support the business exp
 
 ---
 
-### 📥 Project Artifacts
+###  Project Artifacts
 *   **`README.md`** - Executive assessment summary, framework scope, and strategic roadmap.
 *   **`FinSecure_ISO27001_Risk_Assessment.xlsx`** - Quantitative risk engine containing the full Risk Register, $3\times3$ conditional scoring models, and the corporate Statement of Applicability (SoA).
