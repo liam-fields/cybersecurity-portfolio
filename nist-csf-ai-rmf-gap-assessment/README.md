@@ -30,8 +30,8 @@ Assessment findings were developed through analysis of:
 - Security documentation
 
 ## Deliverables
-- `NIST_CSF_Gap_Assessment.xlsx`
-- `AI_RMF_Gap_Assessment.xlsx`
+* [NIST_CSF_Gap_Assessment.xlsx](NIST_CSF_Gap_Assessment.xlsx)
+* [AI_RMF_Gap_Assessment.xlsx](AI_RMF_Gap_Assessment.xlsx)
 
 ## Key Outcomes
 - Identified cybersecurity and AI governance control gaps
