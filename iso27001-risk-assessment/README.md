@@ -1,4 +1,4 @@
-# ISO/IEC 27001 Risk Assessment & Mitigation Portfolio
+# ISO/IEC 27001 Risk Assessment & Mitigation
 
 **Organization:** FinSecure Corp. (Regional Financial Services)  
 **Author:** Liam-Bennet Fields  
