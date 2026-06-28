@@ -50,7 +50,7 @@ $$\text{Risk Score} = \text{Likelihood} \times \text{Impact}$$
 ---
 
 ## 📊 2. Statement of Applicability & Risk Register
-*The full quantitative data engine, change logs, and risk calculations are maintained in the corporate workbook:* **`FinSecure_ISO27001_Risk_Assessment.xlsx`**
+*The full quantitative data engine, change logs, and risk calculations are maintained in the corporate workbook:* [View ISO 27001 Risk Assessment Workbook](FinSecure_ISO27001_Risk_Assessment.xlsx)
 
 ### RSK-01: Stale & Unterminated Identity Accounts
 *   **Vulnerability/Gap:** Access policy permits a standard 7-day deactivation window. Audit logs confirm terminated employee P. Ellis successfully authenticated (`user=p.ellis src_ip=198.51.100.42`) more than a month post-termination.
